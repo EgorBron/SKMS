@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DESPDKExample", "des-pdk-example\DESPDKExample.csproj", "{A51D96D8-55DE-418E-AE22-131D25F2D4FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpsockExample", "TcpsockExample\TcpsockExample.csproj", "{1CA49883-F3EA-4015-8CE5-F49D2B8F3C91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A51D96D8-55DE-418E-AE22-131D25F2D4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51D96D8-55DE-418E-AE22-131D25F2D4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51D96D8-55DE-418E-AE22-131D25F2D4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51D96D8-55DE-418E-AE22-131D25F2D4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA49883-F3EA-4015-8CE5-F49D2B8F3C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA49883-F3EA-4015-8CE5-F49D2B8F3C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA49883-F3EA-4015-8CE5-F49D2B8F3C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA49883-F3EA-4015-8CE5-F49D2B8F3C91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5703D5-C5C2-4978-80B7-FF1FE784B30A}
+	EndGlobalSection
+EndGlobal
